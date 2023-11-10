@@ -1,0 +1,23 @@
+main.home .todo-list .todo-item {
+  background-color: #f6f6f6;
+  border-radius: 8px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 16px;
+  margin-top: 16px;
+}
+
+main.home .todo-list .todo-item p {
+  font-size: 22px;
+}
+
+main.home .todo-list .todo-item button {
+  border: none;
+  background-color: #fff;
+  border-radius: 8px;
+  height: 32px;
+  width: 32px;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+}
